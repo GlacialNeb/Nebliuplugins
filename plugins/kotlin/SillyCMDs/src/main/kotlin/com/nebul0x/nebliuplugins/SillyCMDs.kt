@@ -23,7 +23,8 @@ class SillyCMDs : Plugin() {
                 CommandChoice("oopsiewoopsie", "oopsiewoopsie"),
                 CommandChoice("shitposting", "shitposting"),
                 CommandChoice("copypastarap", "copypastarap"),
-                CommandChoice("ihop", "ihop")
+                CommandChoice("ihop", "ihop"),
+                CommandChoice("wafflehouse", "wafflehouse")
             ))
         ) { ctx ->
             //val str = ctx.getStringOrDefault("visibility", "true")
