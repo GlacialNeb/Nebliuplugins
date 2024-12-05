@@ -1,0 +1,18 @@
+{
+    "authors": [
+        {
+            "id": 376364302292090880,
+            "name": "Nebula"
+        }
+    ],
+    "links": {
+        
+    },
+    "version": "1.1.0",
+    "changelogMedia": null,
+    "description": "A plugin which has a variety of funny commands.",
+    "pluginClassName": "com.nebul0x.nebliuplugins.SillyCMDs",
+    "changelog": "- Version Update 1.1.0 -\n\"Commands\" renamed to \"SillyCMDs.\"\n\"Vaporeon\" command replaced with \"copypasta\". You can now select which copypasta to send from a library.",
+    "name": "SillyCMDs",
+    "updateUrl": "https://raw.githubusercontent.com/Nebul0x/Nebliuplugins/Nebliuplugins/update.json"
+}
